@@ -10,11 +10,11 @@
     </parent>
 
     <groupId>com.javasm</groupId>
-    <artifactId>hello-spring-cloud-dependencies</artifactId>
+    <artifactId>itoken-dependencies</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>hello-spring-cloud-dependencies</name>
+    <name>itoken-dependencies</name>
     <inceptionYear>2018-Now</inceptionYear>
 
     <properties>
